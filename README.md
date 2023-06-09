@@ -8,6 +8,6 @@ Este TFG tiene como objetivo principal el desarrollo de un gemelo digital de una
 
 Se encuentra las escenas de CoppeliaSim y los cuadernos de Jupyter usados en el desarrollo del TFG. 
 
-El código se encuentra divido en dos archivos comprimidos, en cada archivo se encuentra el gemelo digital en CoppeliaSim, los cuadernos Jupyter que realizan el análisis de los datos y ficheros de datos de prueba que se han obtenido de las simulaciones de las escenas.
+El código se encuentra divido en dos archivos comprimidos, en cada archivo se encuentra el gemelo digital en CoppeliaSim, los cuadernos Jupyter que realizan el análisis de los datos y los ficheros de datos que se han obtenido de las simulaciones de las escenas.
 
 En el archivo denominado Fase_1 se encuentra la escena original, mientras que en el otro archivo (Fase_2) se guarda la escena optimizada. 
